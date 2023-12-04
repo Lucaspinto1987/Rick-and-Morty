@@ -13,7 +13,7 @@ const URL_BASE = 'https://be-a-rym.up.railway.app/api'
 const API_KEY = '921c53ed19ee.c07a3c34e20b05d4765f'
 
 const email = "lucaspinto@gmail.com";
-const password = "123doni";
+const password = "1234doni";
 
 function App() {
 
