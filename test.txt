@@ -1,1 +1,17 @@
 esto es un test.
+
+- pull request
+- merge request
+- crear branches
+    -- branch development
+    -- branch demo
+- merge (hacer un merge de develop --> demo)
+
+CLI (command line interface)
+- crear un directorio
+- crear otro adentro
+- crear archivos
+- mover archivos
+- borrar archivos
+- borrar directorios
+-
